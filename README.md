@@ -6,15 +6,10 @@ Este desafio deve ser feito por você em sua casa. Gaste o tempo que você quise
 
 ## Instruções de entrega do desafio
 
-1. Primeiro, faça um fork deste projeto para sua conta no GitHub (crie uma se você não possuir).
-1. Em seguida, implemente o projeto tal qual descrito abaixo, em seu próprio fork.
-1. Por fim, empurre todas as suas alterações para o seu fork no GitHub e envie um pull request para este repositório original. Se você já entrou em contato com alguém da Myfreecomm sobre uma vaga, avise também essa pessoa por email, incluindo no email o seu usuário no GitHub.
-
-### Instruções alternativas (caso você não queira que sua submissão seja pública)
-
+1. Envie um e-mail com seu cv para `selecao@safetysystemtechnology.com.br`
 1. Faça um clone deste repositório.
 1. Em seguida, implemente o projeto tal qual descrito abaixo, em seu clone local.
-1. Por fim, envie via email um arquivo patch para seu contato na Myfreecomm.
+1. Por fim, envie um pull request com seu email na descriçao.
 
 ## Descrição do projeto
 
@@ -34,20 +29,23 @@ Você pode se basear neste mockup para criar as telas:
 
 Sua aplicação deve:
 
-- usar um sistema de build. Ex: Gradle
 - fazer mapeamento json -> Objeto . Ex: GSON / Jackson / Moshi / etc
 - usar um arquivo .gitignore no seu repositório
-- usar Material Design
 - possuir boa cobertura de testes unitários no projeto.
 
 Você ganha mais pontos se:
 
+- usar padrões de projeto
 - persistir os dados localmente
 - criar testes funcionais
 - fazer cache de imagens
-- suportar mudanças de orientação das telas sem perder estado
 
-As sugestões de bibliotecas fornecidas são só um guideline, sinta-se a vontade para usar soluções diferentes e nos surpreender. O importante de fato é que os objetivos macros sejam atingidos.
+Será um grande diferencial:
+
+- contribuir em projetos open source
+- conhecimento nos princípios SOLID
+- conceitos de arquitetura como (DDD, clean architecture)
+- ter conhecimento em desenvolvimento web
 
 ## Avaliação
 
@@ -56,8 +54,6 @@ Seu projeto será avaliado de acordo com os seguintes critérios.
 1. Sua aplicação preenche os requerimentos básicos?
 1. Você documentou a maneira de configurar o ambiente e rodar sua aplicação?
 1. Você seguiu as instruções de envio do desafio?
-
-Adicionalmente, tentaremos verificar a sua familiarização com as bibliotecas padrões (standard libs), bem como sua experiência com programação orientada a objetos a partir da estrutura de seu projeto.
 
 ## Referência
 
