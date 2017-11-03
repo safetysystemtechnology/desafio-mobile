@@ -1,12 +1,10 @@
-# Desafio de programação mobile IOS
+# Desafio de programação mobile (IOS/Android)
 
 A idéia deste desafio é nos permitir avaliar melhor as habilidades de candidatos à vagas de programador, de vários níveis.
 
-Este desafio deve ser feito por você em sua casa. Gaste o tempo que você quiser, porém normalmente você não deve precisar de mais do que algumas horas.
 
 ## Instruções de entrega do desafio
 
-1. Envie um e-mail com seu cv para `selecao@safetysystemtechnology.com.br`
 1. Faça um clone deste repositório.
 1. Em seguida, implemente o projeto tal qual descrito abaixo, em seu clone local.
 1. Por fim, envie um pull request com seu email na descriçao.
@@ -17,9 +15,9 @@ Você deve criar um aplicativo que irá listar os repositórios públicos mais p
 
 O aplicativo deve exibir inicialmente uma lista paginada dos repositórios, ordenados por popularidade decrescente (exemplo de chamada da API: `https://api.github.com/search/repositories?q=language:Java&sort=stars&page=1`).
 
-Cada repositório deve exibir Nome do repositório, Descrição do Repositório, Nome / Foto do autor, Número de Stars, Número de Forks.
+Cada repositório deve exibir nome, descrição , nome / foto do autor, número de stars, número de forks.
 
-Ao tocar em um item, deve levar a lista de Pull Requests do repositório. Cada item da lista deve exibir Nome / Foto do autor do PR, Título do PR, Data do PR e Body do PR.
+Ao tocar em um item, deve levar a lista de Pull Requests do repositório. Cada item da lista deve exibir nome / foto do autor do PR, título do PR, data do PR e body do PR.
 
 Ao tocar em um item, deve abrir no browser a página do Pull Request em questão.
 
@@ -29,16 +27,15 @@ Você pode se basear neste mockup para criar as telas:
 
 Sua aplicação deve:
 
-- fazer mapeamento json -> Objeto . Ex: GSON / Jackson / Moshi / etc
 - usar um arquivo .gitignore no seu repositório
-- possuir boa cobertura de testes unitários no projeto.
 
 Você ganha mais pontos se:
 
+- possuir boa cobertura de testes unitários no projeto.
 - usar padrões de projeto
 - persistir os dados localmente
-- criar testes funcionais
 - fazer cache de imagens
+- criar testes funcionais
 
 Será um grande diferencial:
 
