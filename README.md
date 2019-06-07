@@ -1,6 +1,6 @@
 # Desafio de programação mobile (IOS/Android)
 
-A idéia deste desafio é nos permitir avaliar melhor as habilidades de candidatos à vagas de programador, de vários níveis.
+A idéia deste desafio é nos permitir avaliar melhor as habilidades de candidatos à vagas de programador mobile, de vários níveis.
 
 
 ## Instruções de entrega do desafio
